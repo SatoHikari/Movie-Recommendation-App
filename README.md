@@ -37,10 +37,10 @@ Tools: Git, VS Code, Postman
 
 
 
-1. Repository link:https://github.com/Ashalidia/TO-DO-LIST.git
+1. Repository link:https://github.com/SatoHikari/Movie-Recommendation-App.git
 
 
-2. deployment link:https://ashalidia.github.io/TO-DO-LIST/
+2. deployment link:https://satohikari.github.io/Movie-Recommendation-App/
 
 
 ⚙️ How It Works
